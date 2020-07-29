@@ -12,7 +12,7 @@
   export default {
     data() {
       return {
-        title: 'perinola'
+        title: 'perinola mágica'
       }
     }
   }
